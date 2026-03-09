@@ -1,0 +1,7 @@
+1. Установка имени пользователя и email
+Глобальная настройка (для всех проектов)
+bash
+git config --global user.name "Ваше Имя"
+git config --global user.email "ваш.email@example.com"
+Локальная настройка (для конкретного проекта)
+bash
